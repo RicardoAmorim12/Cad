@@ -1,0 +1,12 @@
+body{
+	background-image: url(img/lavoura.jpg);
+	
+	background-position: center, center fixed; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+.container{
+	margin-top: 10%;
+}
